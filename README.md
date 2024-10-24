@@ -1,5 +1,5 @@
 # A Vertex Clone
-[Play yourself](https://nico-src.github.io/VS-Code-Portfolio/projects/vertex-game/)<br>
+[Play yourself](https://nico-src.github.io/portfolio/projects/vertex-game/)<br>
 
 ## Example Level
 > 
